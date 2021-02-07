@@ -14,10 +14,10 @@ html {
 	padding: 5% 10%;
 	}
 body { 
-	font-family: 75% 'Dancing Script', cursive;
-	line-height: 1.88889;
+	font-family:'Dancing Script', cursive;
+	line-height: 2;
 	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	background: #fff url(https://i.pinimg.com/736x/29/b0/bd/29b0bd119b76ca2209dbb74e7dcba55d--wood-burning-patterns-printable-frames.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -52,7 +52,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
+	background: url(https://r1.hiclipart.com/path/299/752/944/abhi8rvtf698c7fm70v5obib7m-91f369ea75171b55a85f72e4b15a6886.png) no-repeat top left; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
